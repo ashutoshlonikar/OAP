@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: ASHUTOSH
-Build-Jdk: 17.0.2
-Implementation-Title: demo-2
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.example
-Implementation-URL: https://spring.io/projects/spring-boot/demo-2
-Created-By: Maven Integration for Eclipse
-
